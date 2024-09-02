@@ -26,7 +26,7 @@
   </a>
 </div>
 
-### Languages and Tools:
+### Skills 📊:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,github,git)](https://skillicons.dev)
 
 ![Anjana Karmakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjana113-hub&show_icons=true&theme=dark&rank_icon=github)
