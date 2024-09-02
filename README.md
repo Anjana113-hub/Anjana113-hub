@@ -1,16 +1,38 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Anjana Karmakar</h1>
 
-<!--
-**Anjana113-hub/Anjana113-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying
+- 🌱 I’m currently learning Front-end
+- 💬 Ask me anything about Front-end 
+- 📫 How to reach me: queensahasi@gmail.com
+- 😄 My project: https://codealpha-task1-image-gallery.vercel.app
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Anjana113-hub">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@coolmind0124?si=72N485-Zwn-o8F1z">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/anjanakarmakar7/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://m.facebook.com/anjana.karmakar.50999/">
+    <img src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/anjana-karmakar">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anjana Karmakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjana113-hub&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana113-hub&theme=dark)
+
+
+<br>
+⭐️ From [Anjana Karmakar](https://github.com/Anjana113-hub)
