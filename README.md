@@ -27,9 +27,9 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,github,git)](https://skillicons.dev)
 
-![Anjana Karmakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjana113-hub&show_icons=true&theme=dark)
+![Anjana Karmakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjana113-hub&show_icons=true&theme=dark&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana113-hub&theme=dark)
 
