@@ -14,6 +14,9 @@
 
 ### Profile Checking✅
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjana113-hub&label=Profile%20views&color=0e75b6&style=flat" alt="jrtilak" /> </p>
+
+### Followers 👾
+[![](https://img.shields.io/github/followers/Anjana113-hub?label=GitHub%20Followers)](https://github.com/Anjana113-hub)
   
 ### Connect with me 🌟:
 <div id="badges">
