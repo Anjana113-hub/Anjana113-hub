@@ -7,6 +7,11 @@
 - 😄 My project: https://codealpha-task1-image-gallery.vercel.app
 - ⚡ Fun fact: I'm comming to teen
 
+
+<a target="_blank" align="left">
+  <img style="object-fit: cover; object-position: center;" align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+</a>
+
 ### Profile Checking✅
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjana113-hub&label=Profile%20views&color=0e75b6&style=flat" alt="jrtilak" /> </p>
   
