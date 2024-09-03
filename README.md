@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Anjana+Karmakar+..;BTe+c+h+Computer+Science+Engineering+Student+...;I'm+a+Youtuber;Freelancer+Available;Learner+Coder;Nice+To+Meet+You+....&center=true"></a></h1>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Nice+To+Meet+You;Hi👋+I'm+Anjana+Karmakar+..;I'm+a+Computer+Science+Engineering+Student+...;I'm+a+Youtuber;Freelancer+Available;Learner+Coder;Nice+To+Meet+You+....&center=true"></a></h1>
 
 
 - 🔭 I’m currently studying
@@ -7,7 +7,7 @@
 - 💬 Ask me anything about Front-end 
 - 📫 How to reach me: queensahasi@gmail.com
 - 😄 My project: https://codealpha-task1-image-gallery.vercel.app
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: I'm very funny
 
 
 <a target="_blank" align="left">
