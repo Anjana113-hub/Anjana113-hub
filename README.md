@@ -1,4 +1,6 @@
- <h1 align="center">Hi 👋, I'm Anjana Karmakar</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Anjana+Karmakar+..;BTe+c+h+Computer+Science+Engineering+Student+...;I'm+a+Youtuber;Freelancer+Available;Learner+Coder;Nice+To+Meet+You+....&center=true"></a></h1>
+
 
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning Front-end
@@ -45,6 +47,12 @@
 ![Anjana Karmakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjana113-hub&show_icons=true&theme=dark&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana113-hub&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anjana113-hub&theme=radical&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anjana113-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
 
 
 <br>
