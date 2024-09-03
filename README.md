@@ -6,6 +6,9 @@
 - 📫 How to reach me: queensahasi@gmail.com
 - 😄 My project: https://codealpha-task1-image-gallery.vercel.app
 - ⚡ Fun fact: I'm comming to teen
+
+### Profile Checking✅
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjana113-hub&label=Profile%20views&color=0e75b6&style=flat" alt="jrtilak" /> </p>
   
 ### Connect with me 🌟:
 <div id="badges">
